@@ -108,7 +108,7 @@ This project wasn't just about writing code — it was about understanding a com
 ## Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/psa-triage-assistant.git
+git clone https://github.com/Desazza1999/psa-triage-assistant.git
 cd psa-triage-assistant
 npm install
 npm run dev
